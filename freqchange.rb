@@ -1,3 +1,4 @@
+# Public Domain - do what you want 
 require "curses"
 include Curses
 
